@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Andron00e
-- 👀 I’m interested in math and theoretical physics
-- 🌱 I’m currently studying at DGAP MIPT
+- 👋 Hi, I’m Semenov Andrii
+- 📚 Currently studying at DGAP MIPT
+- 👀 Interested in math, theoretical physics and machine learning 
 
 <!---
 Andron00e/Andron00e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
